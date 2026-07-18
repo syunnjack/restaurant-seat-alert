@@ -1,0 +1,7 @@
+# Restaurant Seat Alert
+
+空席、限定メニュー、値引き、クーポンを通知し、予約送客と店舗掲載へつなげる飲食通知サービス。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 予約送客, クーポン課金, 店舗掲載, 広告枠, PR記事
+Primary categories: 空席, 限定メニュー, クーポン, 深夜, 予約

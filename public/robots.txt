@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seatalert.jp/sitemap.xml
