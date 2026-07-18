@@ -8,7 +8,7 @@ Recommended repository name: `restaurant-seat-alert`
 
 ## Domain candidates
 
-First candidate: `seatalert.jp`
+Confirmed domain: `seatalert.jp`
 
 Other candidates:
 
