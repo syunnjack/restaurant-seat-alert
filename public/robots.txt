@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://seatalert.jp/sitemap.xml
+
+Sitemap: https://restaurant-seat-alert.vercel.app/sitemap.xml
